@@ -1,0 +1,58 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# PyInstaller
+dist/
+build/
+
+# Virtual Environment
+venv/
+.env/
+*.pyc
+
+# logs
+logs/
+
+# Caches
+.ccache/
+cache/
+
+# mypy
+.mypy_cache/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Python egg
+*.egg
+
+# Python workspace and environment files
+.python-version
+pip-selfcheck.json
+.venv
+
+# Django-specific
+__pycache__/
+*.pyc
+*.sqlite3
+
+# Media files (uploaded user-generated content)
+media/
+
+# Static files (collected assets)
+static/
+
+# Pillow-specific (image thumbnails and cache)
+*.DS_Store
+thumbs/
+uploads
